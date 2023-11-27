@@ -47,6 +47,14 @@ static/css/style.css
 <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
 ~~~
 
+# Bootstrap
+
+Need to learn and understand
+
+# SQLite database
+
+https://www.digitalocean.com/community/tutorials/how-and-when-to-use-sqlite
+
 # Useful Information
 
 Shutdown Flask
