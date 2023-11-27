@@ -47,6 +47,10 @@ static/css/style.css
 <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
 ~~~
 
+# Jinja Template
+
+Need to learn and understand
+
 # Bootstrap
 
 Need to learn and understand
