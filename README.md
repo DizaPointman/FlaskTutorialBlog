@@ -4,7 +4,9 @@ Just following a Flask tutorial to learn the technology
 
 # Tutorial for Blog
 
+Links for Login, Email Support and further DB interaction at end of article.
 https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+
 
 # Other Resources and Tutorials
 
